@@ -9,6 +9,9 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Ramya Harika Dadi</h1>
 </summary>    
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Business+Analytics+Student;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
 <!--Intro start-->
 - 🔭 I’m currently pursuing a Master's in Information Technology at **University of Cincinnati.**
