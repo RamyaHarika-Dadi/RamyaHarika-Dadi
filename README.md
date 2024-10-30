@@ -12,6 +12,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data Analyst;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Business+Analytics+Student;Data-Driven+Marketer;Photographer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
 <!--Intro start-->
 - 🔭 I’m currently pursuing a Master's in Information Technology at **University of Cincinnati.**
