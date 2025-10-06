@@ -14,7 +14,7 @@
 </p>
 
 <!--Intro start-->
-- 🔭 I’m currently pursuing a Master's in Information Technology at **University of Cincinnati.**
+- 🔭 Master's in Information Technology at **University of Cincinnati.**
 
 
 <!--Intro end-->
